@@ -13,4 +13,10 @@ This research addresses sentiment analysis of Amharic product reviews using the 
 - Augmentation strategies (e.g., random insertion, deletion) for dataset variability.
 - Comparison of XLNet with BERT on the same dataset.
 
+- ## Contact
+For access to the full repository, including code and detailed results, please contact:
+- **Remla Habib**
+- **remla.habib@gmail.com**
+- GitHub: https://github.com/rehabib
+
 
